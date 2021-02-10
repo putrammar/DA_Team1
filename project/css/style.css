@@ -1,0 +1,51 @@
+header{
+  text-align: center;
+}
+
+h1{
+
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  margin: auto;
+
+}
+footer{
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  display: inline-block;
+
+
+}
+
+a:hover{
+  text-decoration: none;
+  color: red;
+}
+a:active{
+  text-decoration: none;
+  color: red;
+
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+#showcase{
+  margin: auto;
+  text-align: center;
+
+}
+h3{
+  font-size: 50px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+
+}
